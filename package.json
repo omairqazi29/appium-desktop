@@ -111,7 +111,7 @@
     "fix-path": "^2.1.0",
     "font-awesome": "4.x",
     "format-json": "1.x",
-    "highlight.js": "9.x",
+    "highlight.js": "10.x",
     "lodash": "4.x",
     "moment": "^2.20.1",
     "postcss": "^5.2.18",
