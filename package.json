@@ -175,7 +175,7 @@
     "file-loader": "0.x",
     "image-webpack-loader": "^3.4.2",
     "jquery": "^3.2.1",
-    "jsdom": "9.x",
+    "jsdom": "16.x",
     "json-loader": "^0.5.7",
     "minimist": "1.x",
     "mocha": "^3.5.3",
